@@ -3,7 +3,7 @@ module github.com/prometheus/node_exporter
 go 1.18
 
 require (
-	github.com/alecthomas/kingpin/v2 v2.3.2-0.20230301032407-649b5a2df7c0
+	github.com/alecthomas/kingpin/v2 v2.3.2
 	github.com/beevik/ntp v0.3.0
 	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/dennwc/btrfs v0.0.0-20221026161108-3097362dc072
